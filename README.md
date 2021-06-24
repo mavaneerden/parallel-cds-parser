@@ -1,4 +1,4 @@
-# Descriptor-processing parser
+# Parallel CDS parser
 
 
 ## Optimisation macros
